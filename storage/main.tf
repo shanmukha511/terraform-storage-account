@@ -1,7 +1,7 @@
 locals {
 
    ip_rules = [
-     "20.228.84.45",
+     "",
      "1.1.1.1",
      "2.2.2.2"
    ]  
@@ -10,7 +10,7 @@ locals {
 locals {
 
    subnet_id = [
-     "/subscriptions/8de1cdf1-0483-480d-8dc6-f19043fe51f8/resourceGroups/AZ-104/providers/Microsoft.Network/virtualNetworks/yogistg_vNet9021741/subnets/default"
+     ""
    ]
   
 }
